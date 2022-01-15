@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/qcbook.png" width="100%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/qcbook.png" width="60%"></a>  
 </h1>
 
 # WORK IN PROGRESS: 
