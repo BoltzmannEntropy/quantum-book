@@ -12,7 +12,7 @@
 
 # WORK IN PROGRESS: 
 
-EXPECTED PUBLICATION DATE JUNE, 2021. 
+EXPECTED PUBLICATION DATE **JUNE, 2022**. 
 
 **Contact Shlomo:**
 
@@ -32,7 +32,7 @@ EXPECTED PUBLICATION DATE JUNE, 2021.
 ## Citation
 ```
 
-}
+
 ```
 
 ## About
