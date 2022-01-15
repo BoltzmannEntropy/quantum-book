@@ -3,8 +3,7 @@
       
 <p align="center">
  <a href="#download">Download PDF</a> •
-  <a href="#about">About</a> •    
-  <a href="#about">Errata</a> •    
+  <a href="#about">About</a> •      
 </p>
 
 <h1 align="center">    
