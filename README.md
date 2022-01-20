@@ -1,5 +1,5 @@
 
-<h1 align="center"> Problems and solutions in Quantum Computing for data scientists.</h1>
+<h1 align="center"> Problems and solutions in Quantum Computing for graduate students.</h1>
       
 <p align="center">
  <a href="#download">Download PDF</a> •
