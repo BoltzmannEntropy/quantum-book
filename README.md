@@ -22,10 +22,6 @@ EXPECTED PUBLICATION DATE **JULY, 2022**.
 
 * https://amazon.com/author/quantscientist
 
-<h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/qcbook.png" width="60%"></a>  
-</h1>
-
 ---
 # Download 
 
