@@ -1,5 +1,8 @@
 
 <h1 align="center"> Problems and solutions in Quantum Computing for graduate students.</h1>
+<h2 align="center">EXPECTED PUBLICATION DATE: JULY, 2022.</h2>
+
+
       
 <p align="center">
  <a href="#download">Download PDF</a> •
