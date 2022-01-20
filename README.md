@@ -10,13 +10,9 @@
   <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="70%"></a>  
 </h1>
 
-<h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/qcbook.png" width="60%"></a>  
-</h1>
+# AN OPEN SOURCE PROJECT, WORK IN PROGRESS: 
 
-# WORK IN PROGRESS: 
-
-EXPECTED PUBLICATION DATE **JUNE, 2022**. 
+EXPECTED PUBLICATION DATE **JULY, 2022**. 
 
 **Contact Shlomo:**
 
@@ -26,7 +22,9 @@ EXPECTED PUBLICATION DATE **JUNE, 2022**.
 
 * https://amazon.com/author/quantscientist
 
-
+<h1 align="center">    
+  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/qcbook.png" width="60%"></a>  
+</h1>
 
 ---
 # Download 
