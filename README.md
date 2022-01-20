@@ -10,7 +10,7 @@
   <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="70%"></a>  
 </h1>
 
-# AN OPEN SOURCE PROJECT, WORK IN PROGRESS: 
+# WORK IN PROGRESS: 
 
 EXPECTED PUBLICATION DATE **JULY, 2022**. 
 
