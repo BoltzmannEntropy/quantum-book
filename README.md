@@ -1,5 +1,5 @@
 
-<h1 align="center"> Problems and solutions in Quantum Computing for graduate students.</h1>
+<h1 align="center"> Problems and solutions in Quantum Computing for graduate students (Open source).</h1>
 <h2 align="center">EXPECTED PUBLICATION DATE: SEPT, 2022.</h2>
 
 
