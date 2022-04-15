@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="95%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="100%"></a>  
 </h1>
 
 # WORK IN PROGRESS: 
@@ -26,7 +26,7 @@ EXPECTED PUBLICATION DATE **SEPTEMBER, 2022**.
 * https://amazon.com/author/quantscientist
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book3.png" width="85%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book3.png" width="75%"></a>  
 </h1>
 ---
 # Download 
