@@ -1,5 +1,5 @@
 
-<h1 align="center">Exams in Quantum Computing for graduate students (open source).</h1>
+<h1 align="center">Exams in Quantum Computing for graduate students.</h1>
 <h2 align="center">EXPECTED PUBLICATION DATE: SEPT, 2022.</h2>
       
 <p align="center">
