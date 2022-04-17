@@ -20,7 +20,7 @@ Building a quantum computer requires **multidisciplinary knowledge** involving e
 **If you are considering graduate school in QC**, you should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
 [https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
 
-**If you are a computer scientist or a physicist attending a graduate programm in quantum computing scientist, this book is for you.** 
+**If you are a computer scientist or a physicist attending graduate school in quantum computing scientist, this book is for you.** 
 The topics include:
 - **Quantum information processing**
 - **Quantum computing**
