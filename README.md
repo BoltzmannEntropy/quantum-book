@@ -15,12 +15,10 @@
 
 EXPECTED PUBLICATION DATE **SEPTEMBER, 2022**. 
 
-Building a quantum computer requires **multidisciplinary knowledge** involving experimental and theoretical physics, photonics, computer science, software engineering, and of course quantum mechanics. 
-
-**If you are considering graduate school in QC**, you should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
+Building a quantum computer requires **multidisciplinary knowledge** involving experimental and theoretical physics, photonics, computer science, software engineering, and of course quantum mechanics. **If you are considering graduate school in QC**, you should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
 [https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
 
-**If you are a computer scientist or a physicist attending graduate school in quantum computing scientist, this book is for you.** 
+**If you are a attending graduate school in quantum computing, this book is for you.** 
 The topics include:
 - **Quantum information processing**
 - **Quantum computing**
