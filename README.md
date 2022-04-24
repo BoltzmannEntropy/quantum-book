@@ -29,18 +29,6 @@ information processing. We made no attempt to self-contain our book by describin
 The primary target consists of graduate students in physics and computer science who are interested in practising problems before their graduate exams. Linear algebra
 and matrices are foundational concepts in both physics and computer science, and this book presupposes familiarity with the Dirac notation and linear algebra manipulations that are critical in quantum information processing. 
 
-**Contact Shlomo:**
-
-* https://www.linkedin.com/in/quantscientist/
-
-* https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl
-
-* https://amazon.com/author/quantscientist
-
-<h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book3.png" width="75%"></a>  
-</h1>
-
 # Download 
 
 ## The PDF is available here: 
@@ -59,4 +47,9 @@ and matrices are foundational concepts in both physics and computer science, and
 ```
 
 ## About me
+
+* https://amazon.com/author/quantscientist
+* https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl
+* https://www.linkedin.com/in/quantscientist/
+
 Although I have not abandoned my prior research interests (AI), they have steadily gravitated towards the field of quantum computing and I am presently pursuing a career in quantum information processing. Even with significant roadblocks on the way to a working quantum computer, scientists are making steady progress, but it is still impossible to predict when we will have thousands of qubits on a quantum computer. Until recently, very few scientists, let alone engineers, were trained and equipped to use quantum hardware and software. This profession requires practitioners to understand fundamental ideas from mathematics, quantum physics, and computer science and combine these in novel and creative ways.
