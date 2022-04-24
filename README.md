@@ -1,31 +1,33 @@
 
 <h1 align="center">Mock exams in Quantum Computing for graduate students.</h1>
-<h2 align="center">EXPECTED PUBLICATION DATE: SEPT, 2022.</h2>
+<h2 align="center">EXPECTED PUBLICATION DATE, OCTOBER, 2022.</h2>
       
-<p align="center">
- <a href="#download">Download PDF</a> •
-  <a href="#about">About</a> •      
-</p>
-
 <h1 align="center">    
   <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="100%"></a>  
 </h1>
 
 # WORK IN PROGRESS: 
 
-EXPECTED PUBLICATION DATE **SEPTEMBER, 2022**. 
+EXPECTED PUBLICATION DATE **OCTOBER, 2022**. 
 
-We are well aware of the magnificent books and courses available on quantum computing. Nonetheless, we believe that a set of **mock exams** for senior physics students is still lacking. We assume that our readers have a thorough foundation in physics, notably quantum mechanics, as well as a working knowledge of quantum information processing. We made no attempt to self-contain our book by explaining every concept that is required on an ad hoc basis. However, we trust that we have communicated the fundamental concepts of quantum mechanics and computer science that support the book.
+When we begin studying quantum computing (QC), we enter a magnificent world overflowing with enlightening revelations. We are tempted to use magical or even
+miraculous terms to characterise our initial encounter with the **Dirac** notation; and as we continue to study the subject, we are continually astounded by the elegance
+and breadth of the results, as demonstrated by the usage of the quantum Fourier transform. However, building a quantum computer requires knowledge in a combination
+of experimental and theoretical physics, photonics, computer science, software engineering, and of course, quantum mechanics.
 
-Building a quantum computer requires **multidisciplinary knowledge** involving experimental and theoretical physics, photonics, computer science, software engineering, and of course quantum mechanics. **If you are considering graduate school in QC**, you should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
-[https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
+**But how does one gain such a knowledge?**. To address the anticipated future demand for highly qualified experts in quantum science and technology, dozens of colleges worldwide have established **graduate programmes in QC** that may appeal to students studying physics as well as computer science. These study programmes extend
+far beyond the normal quantum physics curriculum, in part because notions of quantum information processing, quantum algorithms, and Python circuit programming
+are also emphasised. 
 
-**If you are a attending graduate school in quantum computing, this book is for you.** 
-The topics include:
-- **Quantum information processing**
-- **Quantum computing**
-- **Quantum information theory**
+If you are considering graduate school in QC, I suggest you begin your journey by reading: _"Preparing for the quantum revolution: What role does higher education
+play?"_. On the other hand, this book is for you if you are currently enrolled in a graduate programme in QC.
 
+We are well aware of the great books and courses on QC that are accessible, but nonetheless, we believe that a collection of **practice exams** for seniors in physics
+is still missing. We presume that our readers have a firm grasp of fundamental physics, particularly quantum mechanics, as well as some familiarity with quantum
+information processing. We made no attempt to self-contain our book by describing each subject as needed. 
+
+The primary target consists of graduate students in physics and computer science who are interested in practising problems before their graduate exams. Linear algebra
+and matrices are foundational concepts in both physics and computer science, and this book presupposes familiarity with the Dirac notation and linear algebra manipulations that are critical in quantum information processing. 
 
 **Contact Shlomo:**
 
