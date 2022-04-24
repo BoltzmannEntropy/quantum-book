@@ -1,5 +1,5 @@
 
-<h1 align="center">Mock exams in Quantum Computing for graduate students.</h1>
+<h1 align="center">Practice exams in Quantum Computing for graduate students.</h1>
 <h2 align="center">EXPECTED PUBLICATION DATE, OCTOBER, 2022.</h2>
       
 <h1 align="center">    
