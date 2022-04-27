@@ -3,7 +3,7 @@
 <h2 align="center">EXPECTED PUBLICATION DATE, OCTOBER, 2022.</h2>
       
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="100%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book3.png" width="100%"></a>  
 </h1>
 
 # WORK IN PROGRESS: 
@@ -30,6 +30,11 @@ The primary target consists of graduate students in physics and computer science
 and matrices are foundational concepts in both physics and computer science, and this book presupposes familiarity with the Dirac notation and linear algebra manipulations that are critical in quantum information processing. 
 
 # Download 
+
+<h1 align="center">    
+  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="100%"></a>  
+</h1>
+
 
 ## The PDF is available here: 
 
