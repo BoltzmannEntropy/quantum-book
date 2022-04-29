@@ -31,10 +31,6 @@ and matrices are foundational concepts in both physics and computer science, and
 
 # Download 
 
-<h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book2.png" width="100%"></a>  
-</h1>
-
 
 ## The PDF is available here: 
 
