@@ -8,7 +8,8 @@
 
 # WORK IN PROGRESS: 
 
-EXPECTED PUBLICATION DATE **OCTOBER, 2022**. 
+EXPECTED AMAZON PUBLICATION DATE **OCTOBER, 2022**. 
+-- https://amazon.com/author/quantscientist
 
 When we begin studying quantum computing (QC), we enter a magnificent world overflowing with enlightening revelations. We are tempted to use magical or even
 miraculous terms to characterise our initial encounter with the **Dirac** notation; and as we continue to study the subject, we are continually astounded by the elegance
@@ -29,10 +30,7 @@ information processing. We made no attempt to self-contain our book by describin
 The primary target consists of graduate students in physics and computer science who are interested in practising problems before their graduate exams. Linear algebra
 and matrices are foundational concepts in both physics and computer science, and this book presupposes familiarity with the Dirac notation and linear algebra manipulations that are critical in quantum information processing. 
 
-# Download 
 
-
-## The PDF is available here: 
 
 ## Citation
 ```
