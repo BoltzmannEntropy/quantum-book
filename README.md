@@ -1,6 +1,6 @@
 
 <h1 align="center">Practice exams in Quantum Computing for graduate students.</h1>
-<h2 align="center">EXPECTED PUBLICATION DATE, OCTOBER, 2022.</h2>
+<h2 align="center">EXPECTED PUBLICATION DATE, FEB, 2023.</h2>
       
 <h1 align="center">    
   <img src="https://github.com/BoltzmannEntropy/qc-book/blob/main/assets/book3.png" width="100%"></a>  
@@ -8,7 +8,7 @@
 
 # WORK IN PROGRESS: 
 
-EXPECTED AMAZON PUBLICATION DATE **OCTOBER, 2022**. 
+EXPECTED AMAZON PUBLICATION DATE **FEB, 2023**. 
 -- https://amazon.com/author/quantscientist
 
 
@@ -17,7 +17,7 @@ EXPECTED AMAZON PUBLICATION DATE **OCTOBER, 2022**.
 @misc{kashani2022quant,
       title={Mock exams in quantum computing for graduate students}, 
       author={Shlomo Kashani},
-      year={2022},      
+      year={2023},      
       url = {https://github.com/BoltzmannEntropy/quantum-book/}, 
       archivePrefix={arXiv},
       primaryClass={ph}
